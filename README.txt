@@ -8,7 +8,7 @@ Required MATLAB toolbox:
 Parallel Computing Toolbox
 
 Note: 
-BM3D are compiled on macOS system. You might need to recompile BM3D
+BM3D are compiled on macOS. You might need to recompile BM3D
 packages based on your system requirements.
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
